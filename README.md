@@ -27,7 +27,7 @@ I am interested in understanding how the brain learns models of the world and us
 </tr>
 </table>
 
-### 📝&nbsp; Scientific Publucations
+### 📝&nbsp; Scientific Publications
 
 <table>
 <tr>
