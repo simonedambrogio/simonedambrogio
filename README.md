@@ -6,15 +6,6 @@ I am interested in understanding how the brain learns models of the world and us
 
 ---
 
-### 📝&nbsp; Scientific Publucations
-
-| Name Repo| Description |
-| :-: | :-- |
-| [GlobalMentalAccounting](https://github.com/simonedambrogio/Global-Mental-Accounting) | A global perspective on Mental Accounting |
-| [CelebrityAttention](https://github.com/simonedambrogio/celebrity) | How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions |
-
-
-
 ### 🛠️&nbsp; Packages
 
 <table>
@@ -36,6 +27,18 @@ I am interested in understanding how the brain learns models of the world and us
 </tr>
 </table>
 
+### 📝&nbsp; Scientific Publucations
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/simonedambrogio/Global-Mental-Accounting">GlobalMentalAccounting</a></td>
+<td>A global perspective on Mental Accounting</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/simonedambrogio/celebrity">CelebrityAttention</a></td>
+<td>How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions</td>
+</tr>
+</table>
 
 ### 🎢&nbsp; Other Projects
 
