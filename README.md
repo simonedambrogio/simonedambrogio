@@ -25,6 +25,12 @@ I am interested in understanding how the brain learns models of the world and us
 | [BeardPlor](https://github.com/simonedambrogio/BeardPlot) | Plotting function that integrates with ggplot2 |
 
 
+### 🎢&nbsp; Other Projects
+
+|     |     |
+| :-: | :-- |
+| [SciLab](https://github.com/simonedambrogio/SciLab) | Arduino integration for dispensing rewards |
+
 
 ### 🧰 Languages
 
