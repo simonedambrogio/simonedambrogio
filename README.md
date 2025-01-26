@@ -30,7 +30,7 @@ I am interested in understanding how the brain learns models of the world and us
 |     |     |
 | :-: | :-- |
 | [SciLab](https://github.com/simonedambrogio/SciLab) | Arduino integration for dispensing rewards |
-
+| [UrsinaGame](https://github.com/simonedambrogio/UrsinaGame) | 3D game built using the Ursina game engine in Python |
 
 ### 🧰 Languages
 
