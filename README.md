@@ -27,10 +27,16 @@ I am interested in understanding how the brain learns models of the world and us
 
 ### 🎢&nbsp; Other Projects
 
-|     |     |
-| :-: | :-- |
-| [SciLab](https://github.com/simonedambrogio/SciLab) | Arduino integration for dispensing rewards |
-| [UrsinaGame](https://github.com/simonedambrogio/UrsinaGame) | 3D game built using the Ursina game engine in Python |
+<table>
+<tr>
+<td align="center"><a href="https://github.com/simonedambrogio/SciLab">SciLab</a></td>
+<td>Arduino integration for dispensing rewards</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/simonedambrogio/UrsinaGame">UrsinaGame</a></td>
+<td>3D game built using the Ursina game engine in Python</td>
+</tr>
+</table>
 
 ### 🧰 Languages
 
