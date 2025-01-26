@@ -10,7 +10,7 @@ I am interested in understanding how the brain learns models of the world and us
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [Tools.jl](https://github.com/simonedambrogio/Tools) | Building blocks for productive research |
+| [Tools.jl](https://github.com/simonedambrogio/Tools) | Utility functions for productive research in Julia |
 
 
 ### 🧰 Languages
