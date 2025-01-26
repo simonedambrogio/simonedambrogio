@@ -30,10 +30,11 @@ I am interested in understanding how the brain learns models of the world and us
 <td align="center"><a href="https://github.com/simonedambrogio/cluster">cluster</a></td>
 <td>Utility functions to interface with a HPC</td>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/simonedambrogio/BeardPlot">BeardPlot</a></td>
+<td>Plotting function that integrates with ggplot2</td>
+</tr>
 </table>
-
-| [cluster](https://github.com/simonedambrogio/cluster) | Utility functions to interface with a HPC |
-| [BeardPlor](https://github.com/simonedambrogio/BeardPlot) | Plotting function that integrates with ggplot2 |
 
 
 ### 🎢&nbsp; Other Projects
