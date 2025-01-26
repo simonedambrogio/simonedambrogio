@@ -10,6 +10,7 @@ I am interested in understanding how the brain learns models of the world and us
 |     |     |     |
 | :-: | :-: | :-- |
 | [Global Mental Accounting](https://github.com/simonedambrogio/Global-Mental-Accounting) | A global perspective on Mental Accounting |
+| [Celebrit effect on consumer decisions](https://github.com/simonedambrogio/celebrity) | How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions |
 
 
 
@@ -37,19 +38,3 @@ I am interested in understanding how the brain learns models of the world and us
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-<!--
-**simonedambrogio/simonedambrogio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
