@@ -22,6 +22,7 @@ I am interested in understanding how the brain learns models of the world and us
 | [HybridModels.jl](https://github.com/simonedambrogio/HybridModels.jl) | Integrate traditional computational cognitive models with deep learning approaches |
 | [Tools.jl](https://github.com/simonedambrogio/Tools) | Utility functions for productive research in Julia |
 | [cluster](https://github.com/simonedambrogio/cluster) | Utility functions to interface with a HPC |
+| [BeardPlor](https://github.com/simonedambrogio/BeardPlot) | Plotting function that integrates with ggplot2 |
 
 
 
