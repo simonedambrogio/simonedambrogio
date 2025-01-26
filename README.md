@@ -6,7 +6,14 @@ I am interested in understanding how the brain learns models of the world and us
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠️&nbsp; Tools
+
+|     |     |     |
+| :-: | :-: | :-- |
+| [Tools.jl](https://github.com/simonedambrogio/Tools) | Building blocks for productive research |
+
+
+### 🧰 Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />          
