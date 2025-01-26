@@ -8,7 +8,7 @@ I am interested in understanding how the brain learns models of the world and us
 
 ### 📝&nbsp; Scientific Publucations
 
-|     |     |
+| Name| Description |
 | :-: | :-- |
 | [Global Mental Accounting](https://github.com/simonedambrogio/Global-Mental-Accounting) | A global perspective on Mental Accounting |
 | [Celebrit effect on consumer decisions](https://github.com/simonedambrogio/celebrity) | How celebrity status and gaze direction in ads drive visual attention to shape consumer decisions |
