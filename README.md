@@ -12,7 +12,7 @@
 <td>Utility functions for productive research in Julia</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/simonedambrogio/cluster">cluster</a></td>
+<td align="center"><a href="https://github.com/simonedambrogio/cluster">clustertools</a></td>
 <td>Utility functions to interface with a HPC</td>
 </tr>
 <tr>
